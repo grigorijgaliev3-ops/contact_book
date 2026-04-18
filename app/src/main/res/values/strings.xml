@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">contact_book</string>
+    <!-- Надписи на кнопках -->
+    <string name="btn_call">Позвонить</string>
+    <string name="btn_email">Написать email</string>
+    <string name="btn_map">Показать офис на карте</string>
+    <string name="btn_share">Поделиться контактом</string>
+    <string name="cd_call">Иконка звонка</string>
+    <string name="cd_email">Иконка email</string>
+    <string name="cd_map">Иконка карты</string>
+    <string name="cd_share">Иконка поделиться</string>
+    <string name="phone_number">+74951234567</string>
+    <string name="email_address">contact@example.com</string>
+    <string name="email_subject">Обращение</string>
+    <string name="map_uri">geo:60.0237,30.2289?q=60.0237,30.2289(Наш офис)</string>
+    <string name="share_text">Контакт: +7 (495) 123-45-67, contact@example.com</string>
+    <string name="chooser_title">Поделиться через</string>
+    <string name="error_dial">Нет приложения для звонков</string>
+    <string name="error_email">Нет почтового приложения</string>
+    <string name="error_map">Нет приложения карт</string>
+    <string name="error_share">Нет приложения для отправки</string>
+</resources>
